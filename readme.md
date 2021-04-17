@@ -24,7 +24,7 @@
 * Install NPM packages--> npm install
 
 ## Usage
-![alt text]("offlineBudget.png")
+![alt text](offlineBudget.png)
 
 
 
